@@ -12,5 +12,5 @@ test("Testar Divisão 10/2", () => {
 });
 
 test("Testar Subtração 100-76", () => {
-    expect(calculator.subtracao(100, 76)).toBe(25)
+    expect(calculator.subtracao(100, 76)).toBe(24)
 });
